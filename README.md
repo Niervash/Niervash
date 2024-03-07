@@ -1,8 +1,12 @@
-<center> 
+
+<div align="center">
 <b1> HALLO EVERY NYAWNN 🌸 </b1>
-</center>
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Niervash/Niervash/main/assets/gif/anime-waves-hi.gif">
+</div>
+
+
 <a href="https://github.com//Niervash">
-  <img align="right" src="http://github-readme-streak-stats.herokuapp.com?user=XianyaoYu&mode=weekly" >
+  <img align="right"  >
 </a>
 
 
