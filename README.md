@@ -1,6 +1,6 @@
 
 <div align="center">
-<b1> HALLO EVERY NYAWNN 🌸 </b1>
+<b1> HALLO EVERY NYAWNN 🌸 </b1><br>
 <img hight="100" width="400" alt="GIF" align="center" src="https://tenor.com/id/view/anime-waves-hi-gif-25928708.gif">
 </div>
 
