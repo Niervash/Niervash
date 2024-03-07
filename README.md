@@ -2,7 +2,7 @@
 
 <div align="center">
         <p >  
-█▓▒▒░░░HELLO THERE░░░▒▒▓█
+█▓▒▒░░░ 🙌HELLO THERE🙌 ░░░▒▒▓█
  </p>
         <P> </P>
         <img hight="100" width="300" alt="GIF" align="center" src="https://tenor.com/id/view/anime-waves-hi-gif-25928708.gif">
