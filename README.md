@@ -23,9 +23,6 @@
         <h3 align="left">Support Me:</h3>
         <p><a href="https://ko-fi.com/nirvash"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="nirvash" /></a></p><br><br>
         <div> -->
-        
-
-
 </body>
 
 </html>
