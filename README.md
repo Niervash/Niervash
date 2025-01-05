@@ -12,7 +12,7 @@
       <a href="https://github.com//Niervash">
           <img align="right"  >
         </a>
-  </div> 
+<!--   </div> 
         <div> 
         <p align="left">
         <a href="https://github.com/Niervash">
@@ -22,7 +22,7 @@
         </p>
         <h3 align="left">Support Me:</h3>
         <p><a href="https://ko-fi.com/nirvash"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="nirvash" /></a></p><br><br>
-        <div>
+        <div> -->
 </body>
 
 </html>
